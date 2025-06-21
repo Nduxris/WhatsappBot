@@ -9,6 +9,11 @@ import redis
 from typing import Dict
 import logging
 
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push origin main
+
+
 # Initialize Flask app
 app = Flask(__name__)
 
